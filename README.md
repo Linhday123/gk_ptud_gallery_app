@@ -96,6 +96,7 @@ conn.close()
 ## 5. GitHub – Quản lý mã nguồn
 
 ### Lần đầu: tạo repo local rồi đẩy lên GitHub
+<!-- https://github.com/AnhKhoa-67/test_midterm.git -->
 
 Trong thư mục `GK`:
 
